@@ -8,7 +8,7 @@ A modern, AI-powered cloud storage web application with intelligent file managem
 
 This project provides a clean and scalable cloud storage solution enhanced with AI-driven features such as smart recommendations, duplicate detection, and automatic tagging.
 
-Designed with a focus on usability, performance, and modern UI/UX principles.
+Designed with  a focus on usability, performance, and modern UI/UX principles.
 
 ---
 
